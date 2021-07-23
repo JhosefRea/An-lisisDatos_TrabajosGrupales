@@ -9,7 +9,7 @@ from pymongo.errors import ConnectionFailure
 from bson import json_util, ObjectId
 import couchdb
 
-URL = 'http://admin:ZlatanIbra11@localhost:5984'
+URL = 'http://user:00007@localhost:5984'
 print(URL)
 
 try:
@@ -27,7 +27,7 @@ HEADERS = {
     'Content-Type': 'application/json'
 }
 
-CLIENT = MongoClient('mongodb+srv://Jhosef:123@cluster0.mtelo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority')
+CLIENT = MongoClient('mongodb+srv://user:00007@cluster0.mtelo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority')
 
 try:
     CLIENT.admin.command('ismaster')
