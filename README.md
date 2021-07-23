@@ -13,6 +13,7 @@ Proceso:
 1. Se debe crear una base de datos en MongoDB Atlas, dentro del cual se debe generar un enlace para conectarse desde la aplicacion de MongoDB compas. 
 
 
+<img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/7.png" alt="1"/>
 
 2. Con la base de datos lista, se ha creado las colecciones con los nombres de los integrantes.
 
