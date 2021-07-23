@@ -30,7 +30,7 @@ Proceso:
 5.  Escribimos el codigo de python para enlazar las dos bases de datos
 <img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/4.png" alt="1"/>
 
-7.  Se confirma el enlace en CouchDB
+6.  Se confirma el enlace en CouchDB
 <img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/5.png" alt="1"/>
 
 
