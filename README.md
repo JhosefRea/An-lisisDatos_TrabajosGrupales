@@ -27,7 +27,8 @@ Proceso:
 
 <img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/3.png" alt="3"/>
 
-5.   Asi quedan las colecciones: <img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/6.png" alt="1"/>![Captura de Pantalla 2021-07-22 a la(s) 20 19 09](https://user-images.githubusercontent.com/66568293/126727413-fedc8b05-b3ad-4532-b616-ce0c32eb4c6f.png)
+5.   Asi quedan las colecciones:
+ ![Captura de Pantalla 2021-07-22 a la(s) 20 19 09](https://user-images.githubusercontent.com/66568293/126727413-fedc8b05-b3ad-4532-b616-ce0c32eb4c6f.png)
 6.   Se instala la liberia necesaria para establecer la conexión entre MongoDB y CouchDB
       <br> pip3 install pymongo[srv] </br>
 8.   Escribimos el codigo de python para enlazar las dos bases de datos
