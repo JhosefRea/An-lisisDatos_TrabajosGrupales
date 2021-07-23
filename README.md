@@ -14,6 +14,10 @@ Proceso:
 
 
 <img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/7.png" alt="1"/>
+<img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/4.png" alt="1"/>
+<img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/5.png" alt="1"/>
+<img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/6.png" alt="1"/>
+
 
 2. Con la base de datos lista, se ha creado las colecciones con los nombres de los integrantes.
 
