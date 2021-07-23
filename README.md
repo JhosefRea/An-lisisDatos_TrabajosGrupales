@@ -25,3 +25,4 @@ Proceso:
 4. La base de datos queda de la siguiente manera:
 
 <img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/3.png" alt="3"/>
+hola
