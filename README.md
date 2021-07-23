@@ -27,7 +27,8 @@ Proceso:
 
 <img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/3.png" alt="3"/>
 
-5.  Escribimos el codigo de python para enlazar las dos bases de datos
+5.   Asi quedan las colecciones: <img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/4.png" alt="1"/>
+6.    Escribimos el codigo de python para enlazar las dos bases de datos
 <img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/4.png" alt="1"/>
 
 6.  Se confirma el enlace en CouchDB
