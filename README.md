@@ -4,8 +4,11 @@
 Integrantes:
 --------------------------------------------------
 Johan Quinatoa
+
 Quisaguano Bryan
+
 Rea Jhosef
+
 Antony Sanchez
 
 Proceso:
