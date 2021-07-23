@@ -3,10 +3,10 @@
 
 Integrantes:
 --------------------------------------------------
+Johan Quinatoa
 Quisaguano Bryan
-
 Rea Jhosef
-
+Antony Sanchez
 
 Proceso:
 -------------------------
@@ -35,5 +35,7 @@ Proceso:
 <img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/8.png" alt="1"/>
 8.  Se confirma el enlace en CouchDB
 <img src="https://github.com/JhosefRea/An-lisisDatos_TrabajosGrupales/blob/Ejercicio_MongoDB_CouchDB/Img/5.png" alt="1"/>
+
+![Captura de Pantalla 2021-07-22 a la(s) 20 19 09](https://user-images.githubusercontent.com/66568293/126727413-fedc8b05-b3ad-4532-b616-ce0c32eb4c6f.png)
 
 
